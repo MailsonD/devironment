@@ -1,6 +1,6 @@
 # Devironment
 
-![Logo Devironment](./assets/logo.jpeg 'Logo Devironment')
+<div style="text-align:center"><img src="./assets/logo.jpeg" /></div>
 
 <p>Este repositório tem o intuito principal de ajudar pessoas que precisam configurar mais uma vez o seu ambiente de desenvolvimento (sabemos que não é a primeira vez que você faz isso) ou que estão a procura de algum passo a passo para a instalação de alguma ferramenta de desenvolvimento.</p>
 
@@ -9,6 +9,15 @@
 ## Linux
 
 <p>A princípio, os tutoriais que estarão presentes neste repositório serão destinados a usuários de sistemas operacionais <b>linux</b>, mais especificamente em distros baseadas em <b>Debian</b>. Porém, nada impede que algum dos tutorias aqui apresentados não possam ser realizados em alguma outro tipo de distro.</p>
+
+## Como funciona?
+
+| Arquivo          | Finalidade                                                                                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **tecnologias**/ | Este diretório é destinado a tutoriais de instalação de tecnologias para desenvolvimento, como linguagens de programação e frameworks |
+| **editores**/    | Este diretório é destinado a tutoriais de instalação ou configuração de editores de código ou IDEs                                    |
+| **util**/        | Este diretório é destinado a tutoriais de instalação de plugins e ferramentass utilitárias para distros linux                         |
+| **temas**/       | Este diretório é destinado a tutoriais de instalação de temas para distros linux                                                      |
 
 ## Contribuições
 
