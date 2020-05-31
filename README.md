@@ -4,4 +4,12 @@
 
 <p>Sabemos o quão chata é a tarefa de montar um ambiente de desenvolvimento pela inúmeras ferramentas, extensões, plugins e os demais utilitários para o auxílio nas horas de desenvolvimento. Por tal motivo decidimos unificar os processos de instalações destes utilitários e ferramentas em um único repositório.</p>
 
-<p></p>
+## Linux
+
+<p>A princípio, os tutoriais que estarão presentes neste repositório serão destinados a usuários de sistemas operacionais <b>linux</b>, mais especificamente em distros baseadas em <b>Debian</b>. Porém, nada impede que algum dos tutorias aqui apresentados não possam ser realizados em alguma outro tipo de distro.</p>
+
+## Contribuições
+
+<p>Este é um projeto aberto para qualquer pessoa que possua vontade de adicionar algum outro tutorial ou até mesmo corrigir algum erro em um dos tutoriais presentes.</p>
+
+<p>Basta abrir uma issue a respeito das alterações ou adições que estão dendo feitas, e então criar um <b>Pull Request</b> com as devidas alterações.</p>
