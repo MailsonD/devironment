@@ -21,6 +21,8 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 
 ```
 
+Detalhe, caso você utilize o ZSH como o seu shell principal basta trocar o `bash` nos comandos por `zsh` e ele irá configurar os comandos do nvm para o seu shell do ZSH. O mesmo procedimento funciona para outros tipos de shell.
+
 Após rodar algum desses comandos feche o terminal que você estava utilizando e abra outro usnado o comando a baixo para ver se o nvm foi instalado com sucesso
 
 ```
