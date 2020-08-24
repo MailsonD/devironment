@@ -33,7 +33,7 @@ o resultado deve ser uma mensagem com `nvm`. Caso ocorra algum erro, tente procu
 
 ## Instalando a Node LTS
 
-Após instalar o nvm, já podemos gerenciar nossas versões do node. Mesmo que você não possua nenhuma versão, podemos intalar a primeira aqui com o comando:
+Após instalar o nvm, já podemos gerenciar nossas versões do node. Mesmo que você não possua nenhuma versão, podemos instalar a primeira aqui com o comando:
 
 ```
 nvm install --lts
