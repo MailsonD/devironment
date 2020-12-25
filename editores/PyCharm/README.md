@@ -1,6 +1,6 @@
 # PyCharm
 
-<div style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /></div>
+<div style="text-align:center"><img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/05/Logo-PyCharm.png" /></div>
 
 
 O PyCharm se trata de uma IDE para desenvolvimento em Python, com suporte a desenvolvimento Web e desenvolvimento científico. É uma IDE planejada para maximizar a produtividade do desenvolvedor, além de trazer uma assistência inteligente e um ótimo design.
