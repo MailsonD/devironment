@@ -6,7 +6,7 @@ O Visual Studio Code é um editor de código bastante utilizado em desenvolvimen
 
 ## Onde Encontrar
 
-<p>O Visual Studio Code pode ser instalado com o executável (.deb) fornecido no seu <a src="https://code.visualstudio.com/">site</a>.</p>
+<p>O Visual Studio Code pode ser instalado com o executável (.deb) fornecido no seu <a href="https://code.visualstudio.com/">site</a>.</p>
 
 ## Como instalar
 

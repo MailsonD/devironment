@@ -6,7 +6,7 @@ O nvm trata-se de um gerenciador de versões do node.js. Ele é bastante útil q
 
 ## Onde Encontrar
 
-O nvm e toda a sua documentação pode ser encontrada direto na sua <a src="https://github.com/nvm-sh/nvm">página</a> no github.
+O nvm e toda a sua documentação pode ser encontrada direto na sua <a href="https://github.com/nvm-sh/nvm">página</a> no github.
 
 ## Como instalar
 

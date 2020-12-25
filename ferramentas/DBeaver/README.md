@@ -6,7 +6,7 @@ DBeaver Community é uma ferramenta grátis usada para gerir banco de dados. Ele
 
 ## Onde Encontrar
 
-<p>O DBeaver Community pode ser instalado com o executável (.deb) fornecido no seu <a src="https://dbeaver.io/download/">site</a>. O DBeaver também possui a sua edição paga(Enterprise Edition).</p>
+<p>O DBeaver Community pode ser instalado com o executável (.deb) fornecido no seu <a href="https://dbeaver.io/download/">site</a>. O DBeaver também possui a sua edição paga(Enterprise Edition).</p>
 
 ## Como instalar
 
