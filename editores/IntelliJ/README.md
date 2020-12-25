@@ -8,7 +8,7 @@ Como grande parte do produtos da JetBrains, o IntelliJ IDEA se trada de um produ
 
 ## Onde Encontrar
 
-<p>O IntelliJ IDEA pode ser encontrado no seu <a href="https://code.visualstudio.com/">site</a> como um pacote (.tar.gz) nos sistemas linux, ou executável em um sistema windows.</p>
+<p>O IntelliJ IDEA pode ser encontrado no seu <a href="https://www.jetbrains.com/pt-br/idea/download">site</a> como um pacote (.tar.gz) nos sistemas linux, ou executável em um sistema windows.</p>
 
 ## Como instalar
 
