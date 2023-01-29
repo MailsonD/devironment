@@ -6,7 +6,7 @@ Java se trata de uma linguagem de programação Orientada a Objetos interpretada
 
 ## Onde Encontrar
 
-<p>O Java, ou melhor, o JDK (Kit de Desenvolvimento Java) pode ser encontrado no site da <a href="https://code.visualstudio.com/">Oracle</a>, onde você pode encontrar as diversas versões do java em seus diversos meios de instalação para cada plataforma. Aqui iremos nos focar apenas na isntalação em máquinas linux</p>
+<p>O Java, ou melhor, o JDK (Kit de Desenvolvimento Java) pode ser encontrado no site da <a href="https://www.oracle.com/java/technologies/downloads//">Oracle</a>, onde você pode encontrar as diversas versões do java em seus diversos meios de instalação para cada plataforma. Aqui iremos nos focar apenas na isntalação em máquinas linux</p>
 
 OBS: Recomendamos fortemente que você utilize a versão 8 do Java, pois ainda é a versão mais estável que existe, e roda a grande maioria das aplicações feitas em Java sem complicações, ao contrário das versões mais recentes que sempre apresentam algum tipo de problema em outras aplicações java. Caso queira instalar uma versão mais recente, o tutorial não mudará, mas tenha certeza de que em algum momento você terá complicações relacionadas a versão.
 
